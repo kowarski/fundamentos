@@ -1,0 +1,2 @@
+# fundamentos
+Treinamento: Pensamento Computacional
